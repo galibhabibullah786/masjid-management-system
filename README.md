@@ -12,8 +12,6 @@ A comprehensive full-stack web application for managing mosque committee informa
 For complete documentation, please refer to the root directory:
 
 - **[Deployment Guide](../DEPLOYMENT.md)** - Step-by-step deployment to Render
-- **[Contributing](../CONTRIBUTING.md)** - Contribution guidelines
-- **[Security](../SECURITY.md)** - Security policies
 
 ## 🚀 Features
 
